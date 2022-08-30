@@ -356,6 +356,9 @@
     <ClInclude Include="GraphicsThrowMacros.h">
       <Filter>Header Files\Macros</Filter>
     </ClInclude>
+    <ClInclude Include="WindowThrowMacros.h">
+      <Filter>Header Files\Macros</Filter>
+    </ClInclude>
     <ClInclude Include="Bindable.h">
       <Filter>Header Files\Bindable</Filter>
     </ClInclude>

@@ -410,8 +410,7 @@
     <ClInclude Include="Viewport.h" />
     <ClInclude Include="Window.h" />
     <ClInclude Include="WindowsMessageMap.h" />
-    <ClInclude Include="WindowsThrowMacros.h" />
-    <ClInclude Include="WireframePass.h" />
+    <ClInclude Include="WindowThrowMacros.h" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="hw3d.rc" />
